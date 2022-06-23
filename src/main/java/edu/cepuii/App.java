@@ -13,6 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
+    
         String text = """
             Welcome to Java
             Добро пожаловать в Яву
